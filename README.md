@@ -1,2 +1,2 @@
-# Study + Python cheat sheets (pandas , numpy, catboost, algorithms)
-Различные ноутбуки, связанные с моим обучением анализу данных на Python.
+# Study + cheat sheets (pandas , numpy, catboost, algorithms)
+Различные ноутбуки, связанные с обучением по анализу данных на Python.
